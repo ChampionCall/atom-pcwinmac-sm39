@@ -1,4 +1,4 @@
-# 
+# Professional Atom templates for Mac OS | Turbo Atom templates for PC Windows. Featuring one-click-undo and project-manager — optimized for maximum performance on every platform.
 
 
 
